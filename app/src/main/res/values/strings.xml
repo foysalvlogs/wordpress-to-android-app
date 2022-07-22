@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WordPress To\n Android App Foysal Tech</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="url">https://www.wpexplorer.com/wp-json/wp/v2/posts?per_page=50</string>
+
+    <!--https://bionicteaching.com/wp-json/wp/v2/
+    https://www.thejavaprogrammer.com/wp-json/wp/v2/
+    https://digitalborn.org/wp-json/wp/v2/
+    https://www.wpexplorer.com/wp-json/wp/v2/
+    https://avada.theme-fusion.com/bakery/wp-json/wp/v2/-->
+
+</resources>
